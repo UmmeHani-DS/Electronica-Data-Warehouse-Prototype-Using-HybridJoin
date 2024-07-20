@@ -1,0 +1,2 @@
+# Electronica-Data-Warehouse-Prototype-Using-HybridJoin
+Data Warehouse (DW) prototype for Electronica Business, to analyze customer shopping behavior in near-real-time. It uses the HYBRIDJOIN algorithm in a multithreaded Java implementation to efficiently join and transform transactional data for the DW. The project aims to optimize sales strategies by providing insights through various OLAP queries.
